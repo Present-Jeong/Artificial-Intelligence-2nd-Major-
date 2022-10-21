@@ -1,4 +1,4 @@
-# DALLE
+# DALLE - 2
 
 2022.06.18
 Korea University, Artificial Intelligence Lecture COSE 464 'Natural Language Processing'
